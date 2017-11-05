@@ -2,8 +2,7 @@
 
 ## Heroes of Pymoli Game Data Analysis
 
-# Analysed following
-# See the observations at the end. 
+# See the observations about this analysis at the end. 
 
 ## Player Count
 
