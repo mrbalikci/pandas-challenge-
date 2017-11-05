@@ -65,7 +65,7 @@
   * Item Price
   * Total Purchase Value
 
-## Observatons 
+## Observations 
 
 1.	There are 780 purchases with $2,286.00 revenue with average of $2.93 per items for total of 179 items. 
 2.	780 purchases made by 633 males, 136 females, and 11 Other/Don-Disclosed players. 
